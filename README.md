@@ -1,5 +1,5 @@
 ### Hi there 👋
-[(http://mazassumnida.wtf/api/v2/generate_badge?boj={orct})](https://solved.ac/{orct})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=orct)](https://solved.ac/orct/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ORCT&&show_icons=true&theme=tokyonight)
 

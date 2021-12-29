@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=orct)](https://solved.ac/orct/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ORCT&&show_icons=true&theme=tokyonight)
